@@ -1,4 +1,4 @@
-![Imal](https://github.com/Imaludayanga6/Imaludayanga6/assets/155871733/fbfd2fd0-e601-4899-8f46-cabeb8c8c0b4)
+![Imal](https://github.com/Imaludayanga6/Imaludayanga6/assets/155871733/453f45fd-4707-4623-991e-b1e951f0da10)
 
 
 <h1 align="center">Hi 👋, I'm Imal udauanga</h1>
