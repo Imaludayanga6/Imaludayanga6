@@ -1,4 +1,4 @@
-<![Imal](https://github.com/Imaludayanga6/Imaludayanga6/assets/155871733/453f45fd-4707-4623-991e-b1e951f0da10)"center">
+<img sre="![Imal](https://github.com/Imaludayanga6/Imaludayanga6/assets/155871733/453f45fd-4707-4623-991e-b1e951f0da10)" class="center">
 
 
 <h1 align="center">Hi 👋, I'm Imal udauanga</h1>
