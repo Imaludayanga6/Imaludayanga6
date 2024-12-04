@@ -1,4 +1,4 @@
-(https://github.com/Imaludayanga6/Imaludayanga6/assets/155871733/dcfe8c06-5871-469e-97e4-e86e6767b946)
+![Cover]([https://github.com/Theekshana-z/Theekshana-z/assets/121856255/0cd84d92-39f0-4c64-8649-682a965e3242](https://backiee.com/wallpaper/techsavvy-anime-programmers-haven/286745))
 
 <h1 align="center">Hi 👋, I'm Imal udauanga</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
