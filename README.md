@@ -1,3 +1,5 @@
+(https://github.com/Imaludayanga6/Imaludayanga6/assets/155871733/dcfe8c06-5871-469e-97e4-e86e6767b946)
+
 <h1 align="center">Hi 👋, I'm Imal udauanga</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
