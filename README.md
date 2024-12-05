@@ -1,12 +1,10 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/premium-photo/man-sits-computer-with-man-sitting-desk-monitor_579873-52035.jpg)
 <h1 align="center">Hi 👋, I'm Imal udauanga</h1>
 <h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br><br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaludayanga6&label=Profile%20views&color=0e75b6&style=flat" alt="imaludayanga6" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imaludayanga6" alt="imaludayanga6" /> </p>
 
 - 🌱 I’m currently learning **.NET and C#**
 
@@ -14,7 +12,9 @@
 
 - 📫 How to reach me **imaludayanga6@gmail.com**
 
-- ⚡ Fun fact **Call me as Imal**
+- ⚡ Fun fact **Call me as Imal**<br><br>
+
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imaludayanga6" alt="imaludayanga6" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
