@@ -1,5 +1,6 @@
-![Cover](https://backiee.com/wallpaper/techsavvy-anime-programmers-haven/286745)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...") 
 <h1 align="center">Hi 👋, I'm Imal udauanga</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
