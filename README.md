@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Imal udauanga</h1>
 <h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imaludayanga6&label=Profile%20views&color=0e75b6&style=flat" alt="imaludayanga6" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imaludayanga6" alt="imaludayanga6" /></a> </p>
 
 - 🌱 I’m currently learning **.NET and C#**
@@ -15,6 +11,8 @@
 - 📫 How to reach me **imaludayanga6@gmail.com**
 
 - ⚡ Fun fact **Call me as Imal**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imaludayanga6&label=Profile%20views&color=0e75b6&style=flat" alt="imaludayanga6" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
