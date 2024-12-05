@@ -1,12 +1,14 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Imal udauanga</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaludayanga6&label=Profile%20views&color=0e75b6&style=flat" alt="imaludayanga6" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imaludayanga6" alt="imaludayanga6" /></a> </p>
 
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning **.NET and C#**
 
 - 👨‍💻 All of my projects are available at [https://imal-udayanaga-portfolio.vercel.app/](https://imal-udayanaga-portfolio.vercel.app/)
 
@@ -17,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/imal-udayanga-b13631269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/imal-udayanga-b13631269" height="30" width="40" /></a>
+
 <a href="https://instagram.com/https://www.instagram.com/imal_udayanga6/profilecard/?igsh=oxbsmnf6dnluz2q1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/imal_udayanga6/profilecard/?igsh=oxbsmnf6dnluz2q1/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/imaludayanga6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imaludayanga6" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@imaludayanga6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@imaludayanga6" height="30" width="40" /></a>
