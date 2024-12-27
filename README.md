@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/man-sits-computer-with-man-sitting-desk-monitor_579873-52035.jpg)
+![MasterHead](https://img.freepik.com/premium-photo/man-sits-computer-with-man-sitting-desk-monitor_579873-52035.jpg)
 <h1 align="center">Hi 👋, I'm Imal udauanga</h1>
 <h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br><br>
